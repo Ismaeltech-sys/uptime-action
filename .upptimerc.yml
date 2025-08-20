@@ -4,7 +4,7 @@ repo: uptime-action # The name of this repository
 
 sites:
   - name: CV
-    url: https://cv.ismaeltech.com
+    url: https://cv.ismaeltech.cc
   - name: TOOLS DEVOPS
     url: https://it-tools.ismaeltech.cc
   - name: TOOLS OFFICE

@@ -4,9 +4,9 @@
     "url": "https://cv.ismaeltech.cc",
     "icon": "https://icons.duckduckgo.com/ip3/cv.ismaeltech.cc.ico",
     "slug": "cv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 819,
     "timeMonth": 819,
     "timeYear": 819,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 0
+    }
   },
   {
     "name": "TOOLS DEVOPS",

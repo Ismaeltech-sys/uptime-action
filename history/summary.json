@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cv.ismaeltech.cc.ico",
     "slug": "cv",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "96.03%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.52%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 824,
     "timeDay": 844,
     "timeWeek": 824,
     "timeMonth": 824,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2025-08-26": 57
+      "2025-08-26": 45
     }
   },
   {
